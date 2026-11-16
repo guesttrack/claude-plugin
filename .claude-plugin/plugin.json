@@ -1,0 +1,13 @@
+{
+  "name": "guesttrack",
+  "displayName": "GuestTrack",
+  "version": "2.0.0",
+  "description": "Set up and run visitor check-in by asking Claude: create your site's check-in, invite visitors, see who's on site, run an emergency roll call and report on visits.",
+  "author": {
+    "name": "GuestTrack",
+    "url": "https://guesttrack.io"
+  },
+  "homepage": "https://guesttrack.io/features/ai-assistants/",
+  "license": "MIT",
+  "privacyPolicyUrl": "https://guesttrack.io/privacy-policy/"
+}

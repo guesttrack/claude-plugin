@@ -1,0 +1,5 @@
+{
+  "mcpServers": {
+    "guesttrack": { "type": "http", "url": "https://api.guesttrack.io/mcp" }
+  }
+}

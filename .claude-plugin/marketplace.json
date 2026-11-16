@@ -1,0 +1,15 @@
+{
+  "name": "guesttrack",
+  "description": "GuestTrack visitor check-in for Claude.",
+  "owner": {
+    "name": "GuestTrack",
+    "url": "https://guesttrack.io"
+  },
+  "plugins": [
+    {
+      "name": "guesttrack",
+      "source": "./",
+      "description": "Set up and run visitor check-in by asking Claude."
+    }
+  ]
+}
