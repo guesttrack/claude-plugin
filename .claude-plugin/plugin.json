@@ -9,5 +9,17 @@
   },
   "homepage": "https://guesttrack.io/features/ai-assistants/",
   "license": "MIT",
-  "privacyPolicyUrl": "https://guesttrack.io/privacy-policy/"
+  "privacyPolicyUrl": "https://guesttrack.io/privacy-policy/",
+  "repository": "https://github.com/guesttrack/claude-plugin",
+  "documentationUrl": "https://guesttrack.io/features/ai-assistants/",
+  "supportUrl": "mailto:support@guesttrack.io",
+  "termsOfServiceUrl": "https://guesttrack.io/terms/",
+  "keywords": [
+    "visitor management",
+    "check-in",
+    "visitors",
+    "reception",
+    "roll call",
+    "invites"
+  ]
 }
